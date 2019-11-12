@@ -1,4 +1,6 @@
 # Vue Babel6 使用 jsx 问题
+* [**jsx**](https://github.com/vuejs/jsx)
+* [**babel-plugin-transform-vue-jsx**](https://github.com/vuejs/babel-plugin-transform-vue-jsx)
 ### 安装依赖
 ```
 # yarn
