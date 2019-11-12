@@ -21,3 +21,10 @@ npm install\
   babel-preset-env\
   --save-dev
 ```
+### 修改 .babelrc 
+```
+{
+  "presets": ["env"],
+  "plugins": ["transform-vue-jsx"]
+}
+```
